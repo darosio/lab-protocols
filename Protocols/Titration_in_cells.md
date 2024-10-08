@@ -14,8 +14,8 @@ Per one well:
 - 4 ul Effectene
 
 Day3 +4
-Take one well
-Suck medium
+- Take one well
+- Suck medium
 Add desired buffer with ionophores (prepare 1ml)
 Leave it for 2 min, change 4 times
 Start taking pictures
